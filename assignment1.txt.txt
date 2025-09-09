@@ -1,0 +1,35 @@
+﻿Assignment no: 01 
+FA24--BBA-015
+Dur-e-Adan 
+
+
+Question 1: How can you break down the trip planning process into smaller, manageable tasks?
+ You take planning a weekend getaway and break it into smaller, more specific steps.This is decomposition.  Think about all the different things you have to do on trip.
+* Transportation: How will you get there? (e.g., car, bus, train)
+* Accommodation: Where will you stay? (e.g., hotel, Airbnb, guesthouse)
+* Food: Where and what will you eat? (e.g., restaurants, cooking your own meals)
+* Activities: What will you do while you're there? (e.g., sightseeing, hiking, shopping)
+* Budget: How much will everything cost?
+* Packing: What items will you need to bring?
+Question 2: What patterns can you identify from your past travel experiences?
+This is pattern recognition. Think about trips you've taken before. What are the common elements or things that always seem to happen? Identifying these patterns can make planning a new trip easier and more efficient.
+* Booking: You always need to book in advance to get the best prices on hotels and transportation.
+* Packing: You always pack certain essential items like toiletries, a phone charger, and comfortable shoes.
+* Navigation: You always use a map app (like Google Maps) to find your way around a new city.
+* Dining: You always look for local restaurants and check their reviews before you go.
+Question 3: What are the essential elements to consider when planning a trip?
+This is abstraction. You're identifying the most important details and ignoring the less relevant ones. For a trip to Murree, for example, what are the absolute necessities that you can't overlook?
+* Date: When will the trip be? (You need to know this to book things).
+* Number of people: How many people are going? (This affects everything from lodging to transportation).
+* Budget: What is the total amount of money you have to spend?
+* Purpose of the trip: Is it for relaxation, adventure, or something else?
+Question 4: How can you create a step-by-step plan to ensure a successful trip?
+This is algorithm design. You're creating a clear, ordered set of instructions to follow. This is the final step where you bring everything together into a concrete plan.
+Here's a sample algorithm:
+1. Determine your budget.
+2. Decide on the dates and duration of your trip.
+3. Find and book your accommodation.
+4. Arrange for transportation to Murree.
+5. Research and list potential activities and places to eat.
+6. Create a detailed itinerary for each day.
+7. Make a packing list and pack your bags a day before you leave.
